@@ -1,6 +1,6 @@
-Public class GitPro{
+public class git_pro{
     public static void main (String[] args){
-        system.out.println("Hello world!");
-        system.out.println("sum" + MathUtils.add(a: 2,b : 3));
+        System.out.println("Hello world!");
+        System.out.println("sum" + MathUtils.add(b:2, c:3));
     }
 }
