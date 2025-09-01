@@ -1,5 +1,5 @@
 public class MathUtils{
-    public static int add(int b, int c){
+    public static int add(int a, int b){
         return a + b;
     }
 }
